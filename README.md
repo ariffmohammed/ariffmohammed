@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Ariff 👋
 
-<!--
-**ariffmohammed/ariffmohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at VTU, Bengaluru teaching myself Machine Learning and AI from scratch — one project at a time.
 
-Here are some ideas to get you started:
+## 🤖 What I'm Into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building AI and ML models
+- Learning how intelligent systems actually work
+- Turning ideas into real projects
+
+## 🌱 Currently Learning
+
+- Machine Learning fundamentals
+- NumPy and Pandas for data science
+- Scikit-learn for building ML models
+
+## 🎯 My Goal
+
+To become an AIML Engineer and build things that are actually intelligent and useful.
+
+## 📫 Reach Me At
+
+ariffmohammad2007@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-ariff-mirza-103a93244)
